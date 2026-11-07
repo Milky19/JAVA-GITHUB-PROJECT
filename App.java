@@ -5,6 +5,6 @@ public class App {
 		System.out.println("GITHUB ACTIONS FOR JAVA CODE");
 		System.out.println("GITHUB ACTIONS YAML FILE");
 		System.out.println("Thanks for using my app");
-		System.out.println("=======================);
+		System.out.println("=======================");
 	}
 }
